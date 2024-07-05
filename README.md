@@ -150,3 +150,5 @@ yarn start
 [prettier-url]: https://prettier.io/
 [eslint]: https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=61DAFB
 [eslint-url]: https://eslint.org/
+
+project is developed by:[RushiPatel] (https://www.linkedin.com/in/rushi-patel-193079266/)
